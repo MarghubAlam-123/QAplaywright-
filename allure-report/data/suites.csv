@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","0","@web screenshot and visual comparison","","2026-03-04","skipped","2026-03-04","","moreValidation.spec.js","",""
+"","1","@web visual testing","","2026-03-04","skipped","2026-03-04","","moreValidation.spec.js","",""
+"","4552","@web client app login - Login Payload 2","","2026-03-04","passed","2026-03-04","","TestDemoFramwork.spec.js","",""
+"","35633","@web popup validation","","2026-03-04","broken","2026-03-04","","moreValidation.spec.js","",""
+"","6705","@web client app login - Login Payload 1","","2026-03-04","passed","2026-03-04","","TestDemoFramwork.spec.js","",""
